@@ -7,5 +7,7 @@ function generatePassword(len) {
     return password;
 }
 
+// console.log(generatePassword(12));
+
 module.exports = generatePassword;
 
